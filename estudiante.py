@@ -36,4 +36,3 @@ class Estudiante:
             str(self.nota)
         )
         
-      
